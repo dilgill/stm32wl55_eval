@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "STM32WL_QFN48_4Layers_Ref_Board-altium-import")(type "KiCad")(uri "${KIPRJMOD}/STM32WL_QFN48_4Layers_Ref_Board-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Project_Overview-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Project_Overview-altium-import.kicad_sym")(options "")(descr ""))
+)
